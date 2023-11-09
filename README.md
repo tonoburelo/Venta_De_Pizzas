@@ -23,3 +23,4 @@ Se prefiere visualizar varios aspectos de los datos de venta de las pizzas para 
 * Pizzas vendidas por categoría de pizzas
 * Top 5 mejores por ganancias, cantidad total y total de órdenes
 * Bottom 5 mejores por ganancias, cantidad total y total de órdenes
+  
