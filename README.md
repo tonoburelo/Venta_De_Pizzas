@@ -1,6 +1,6 @@
 # Venta De Pizzas - Power BI & SQL
 ## Introducción
-Este es mi primer proyecto de análisis de datos, en el cual se analizan los datos de las ventas de pizzas de una pizzeria, para ganar perspectiva dentro del rendimiento del negocio, específicamente se quieren  calcular las siguientes métricas: 
+Este es mi primer proyecto de análisis de datos, en el cual se analizan los datos de las ventas de pizzas de una pizzeria importante, para ganar perspectiva dentro del rendimiento del negocio, específicamente se quieren  calcular las siguientes métricas: 
 * **Ingresos Totales:** La suma del precio total de todas las órdenes de pizza.
 * **Ingreso Por Orden Promedio:** El promedio gastado por orden.
 * **Pizzas Vendidas:** La suma de la cantidad de pizzas vendidas.
